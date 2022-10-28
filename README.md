@@ -54,7 +54,7 @@ src="https://media.discordapp.net/attachments/989981120978366554/103562142411679
 [playlist](https://open.spotify.com/playlist/5Hw5h9EsipTPmkihvjsaGz) ~
 [last.fm](https://www.last.fm/user/computter) ~
 [pinterest](https://pin.it/13mNQX6) <br>
-&copy; Init1
+<div> <img height="15" src="https://media.discordapp.net/attachments/1013431298725003315/1035623882876539010/init1.png"> &copy; 2022, Init1. </div>
    
 </div>
 
